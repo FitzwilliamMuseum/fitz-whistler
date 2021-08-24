@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /explore/
-title: Explore prints
+title: Explore Whistler's work
 ---
 <div class="container mb-3">
   <div class="row">
@@ -19,8 +19,10 @@ title: Explore prints
           <h3 class="lead mt-2">
             <a href="{{site.baseurl}}{{ author.permalink }}" class="stretched-link">{{author.title}}</a>
           </h3>
-          {% for tags in author.tags %}
-          <span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i> {{ tags}}</span>
+          {% for tag in author.tags %}
+          <span class="badge badge-dark badge-large p-2 mb-2 mr-2 ">
+            <a href="" class="text-white"><i class="fas fa-tags"></i> {{ tag | capitalize }}</a>
+          </span>
           {% endfor %}
         </div>
       </div>

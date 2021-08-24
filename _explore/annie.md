@@ -2,7 +2,7 @@
 title: Annie
 layout: default
 permalink: /explore/annie/
-tags: [Family,French]
+tags: [family,french]
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_2071_R.jpg
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/P_2071_R.jpg
 record: 10122

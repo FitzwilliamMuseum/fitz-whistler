@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ''
+title: 'Whistler: Palaces in the Night'
 permalink: /
 ---
 

@@ -2,7 +2,7 @@
 title: "The Doorway from 'The First Venice Set'"
 layout: default
 permalink: /explore/the-doorway/
-tags: [Venice]
+tags: [venice]
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_2_2008.jpg
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/P_2_2008.jpg
 record: 161015

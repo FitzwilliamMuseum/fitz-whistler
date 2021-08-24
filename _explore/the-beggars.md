@@ -19,8 +19,6 @@ This is one of the largest prints in the series, larger than the plates that Whi
 
 Bought with the help of the Art Fund and the MLA/V&A Purchase Grant Fund 2008
 
-{% for tags in page.tags %}
-<span class="badge badge-dark p-2 mb-2"><i class="fas fa-tags"></i> {{ tags}}</span>
-{% endfor %}
+
 
 {% include structure/record.html %}
