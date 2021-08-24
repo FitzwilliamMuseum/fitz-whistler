@@ -42,9 +42,11 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-mentions
-
+  - jekyll-paginate
+paginate: 15
+paginate_path: "/explore/page/:num/"
 collections:
-   explore:
+   posts:
       output: true
    about:
       output: true
@@ -53,7 +55,7 @@ collections:
 
 feed:
   collections:
-    - explore
+    - posts
 
 timezone: Europe/London
 permalink: pretty

@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /explore/
 title: Explore Whistler's work
 ---
 <div class="container mb-3">
@@ -31,3 +30,5 @@ title: Explore Whistler's work
   {% endfor %}
   </div>
 </div>
+
+{% include structure/pagination.html %}
