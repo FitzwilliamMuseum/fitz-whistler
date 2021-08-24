@@ -1,0 +1,20 @@
+---
+title: A Venus
+accession: P.281-1954
+record: 10097
+large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/large_P_281_1954_1_201705_adn21_dc2.jpg
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp76/preview_P_281_1954_1_201705_adn21_dc2.jpg
+layout: default
+permalink: /explore/a-venus
+tags: [family]
+---
+
+Etching printed on 'antique' laid paper, 1859
+
+This Venus is closer in spirit to the realistic fleshy nudes of Rembrandt (particularly his etching Jupiter and Antiope) than it is to the idealism of the traditional classical nude, or the more sensational sensuality of Courbet's painted nudes that had been exhibited recently in Paris.
+
+The model was Whistler's mistress 'Fumette', a grisette from the Latin quarter in Paris (see Fumette). She knew the verses of the Romantic poet Alfred de Musset by heart and would recite them to Whistler. She was reportedly passionately attached to Whistler and once tore up his drawings in a jealous rage.
+
+This impression is printed on the Dutch 'antique' laid paper that Whistler favoured.
+
+Given by G. J. F. Knowles 1954
