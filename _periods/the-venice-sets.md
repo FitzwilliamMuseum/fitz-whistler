@@ -3,7 +3,7 @@ title: The Venice Sets
 layout: default
 permalink: /the-venice-sets/
 dates: '1859-1879'
-
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_2_2008.jpg
 ---
 Following Whistler's bankruptcy in May 1879, the Fine Art Society commissioned him to go to Venice and return by December with a set of twelve prints. In the event his inspiration ran away with him and he did not return until November of 1880, bringing back many more plates.
 
