@@ -1,4 +1,6 @@
-
+.square {
+  object-fit: cover;
+}
 .parallax {
   min-height: 65vh;
   background-attachment: fixed;
