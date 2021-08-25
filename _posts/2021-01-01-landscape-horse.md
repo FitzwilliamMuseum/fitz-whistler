@@ -3,8 +3,8 @@ title: "Landscape with the Horse"
 accession: P.278-1954
 layout: default
 record: 27964
-large:
-preview:
+large: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landscape_with_the_Horse_LACMA_M.84.279.10.jpg/1280px-Landscape_with_the_Horse_LACMA_M.84.279.10.jpg
+preview: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Landscape_with_the_Horse_LACMA_M.84.279.10.jpg/320px-Landscape_with_the_Horse_LACMA_M.84.279.10.jpg
 permalink: /explore/landscape-with-the-horse
 tags: [family]
 ---
@@ -17,3 +17,5 @@ One of several etchings of figures in a rural landscape (Nursemaid and Child bel
 Given by G. J. F. Knowles 1954
 
 {% include structure/record.html %}
+
+The image on this record is a Public Domain image from Los Angeles County Museum of Art. We aim to replace this with our image in due course.{: .badge .badge-dark .d-block .p-3 }

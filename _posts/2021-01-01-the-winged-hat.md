@@ -6,7 +6,7 @@ record: 10332
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/P_2093_R.jpg
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_2093_R.jpg
 permalink: /explore/the-winged-hat
-tags: [family,lithograph]
+tags: [family,lithographs]
 ---
 {% include structure/image.html %}
 

@@ -6,7 +6,7 @@ record: 10182
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/P_93_1959.jpg
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_93_1959.jpg
 permalink: /explore/suede-gloves
-tags: [family,lithograph]
+tags: [family,lithographs]
 ---
 {% include structure/image.html %}
 

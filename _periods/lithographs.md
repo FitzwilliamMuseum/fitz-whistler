@@ -1,16 +1,14 @@
 ---
-title: Family and Friends
+title: Lithographs
 layout: default
-permalink: /family-and-friends/
-dates: '1857-1894'
-preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_2071_R.jpg
-tag: family
+permalink: /lithographs/
+dates: '1890 - 1894'
+tag: 'lithographs'
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/P_438_1949_dc2.jpg
 ---
-Many of Whistler's figure subjects portrayed his immediate circle of family, friends and acquaintances, from his mistress Fumette in Paris in the 1850s, to his wife Beatrice and her sister 'Bunnie' in the 1890s.
+Whistler took up lithography in 1878 with the encouragement of the London printer Thomas Way, and prompted by revived interest in the medium among French painters like Corot, Degas and Fantin-Latour. At first he drew directly onto lithographic printing stones, but he soon followed the example of his French colleagues by working on transfer paper, from which the image was transferred onto the stone. This gave the same freedom as making a drawing.
 
-One of the largest and earliest groups featured the family of his half-sister Deborah and her husband, the surgeon, etcher and collector Seymour Haden, who became an influential figure in the revival of etching in England. The relationship between Whistler and Haden quickly deteriorated. Whistler grew jealous of the public success of Haden's landscape prints, while Haden was outraged by Whistler's lifestyle (living openly with his new mistress).
-
-Whistler's relationships with numerous other people suffered the same fate. When he turned his scathing wit on former friends his butterfly monogram acquired a barbed tail to match the sting of his wit.
+After a gap of eight years Whistler resumed making lithographs in 1887. Using subtle techniques and choice materials he created prints with the delicacy of drawings, leaving large borders around the figures so that the images seem to float. The sense of refinement and suggestion appealed to the French Symbolist poet Stéphane Mallarmé, who became friends with Whistler at this time.
 
 <div class="container mb-3">
   <div class="row">

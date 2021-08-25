@@ -1,16 +1,14 @@
 ---
-title: Family and Friends
+title: Prints by friends and followers
+
 layout: default
-permalink: /family-and-friends/
-dates: '1857-1894'
-preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_2071_R.jpg
-tag: family
+permalink: /friends-and-followers/
+dates: '1861 - 1889'
+tag: 'followers'
 ---
-Many of Whistler's figure subjects portrayed his immediate circle of family, friends and acquaintances, from his mistress Fumette in Paris in the 1850s, to his wife Beatrice and her sister 'Bunnie' in the 1890s.
+Whistler attracted a number of pupils and followers, both amateur and professional, a number of whom became significant printmakers in their own right. Mortimer Menpes and Walter Sickert absorbed Whistler's methods while helping with the printing of the 'Second Venice Set'.
 
-One of the largest and earliest groups featured the family of his half-sister Deborah and her husband, the surgeon, etcher and collector Seymour Haden, who became an influential figure in the revival of etching in England. The relationship between Whistler and Haden quickly deteriorated. Whistler grew jealous of the public success of Haden's landscape prints, while Haden was outraged by Whistler's lifestyle (living openly with his new mistress).
-
-Whistler's relationships with numerous other people suffered the same fate. When he turned his scathing wit on former friends his butterfly monogram acquired a barbed tail to match the sting of his wit.
+As in so many other cases, Whistler later fell out with both of them. Théodore Roussel seems to have been more subservient: out of respect he always removed his hat in Whistler's presence.
 
 <div class="container mb-3">
   <div class="row">

@@ -6,7 +6,7 @@ record: 10183
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/P_95_1959.jpg
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_95_1959.jpg
 permalink: /explore/the-red-dress
-tags: [family,lithograph]
+tags: [family,lithographs]
 ---
 {% include structure/image.html %}
 
