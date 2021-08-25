@@ -1,4 +1,4 @@
-# Template Jekyll - Fitzwilliam
+# Whistler: Fitzwilliam Museum
 
 Holding webpages for a forthcoming exhibition or online gallery archives.
 
