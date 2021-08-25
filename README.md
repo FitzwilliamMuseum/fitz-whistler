@@ -1,6 +1,6 @@
 # Whistler: Fitzwilliam Museum
 
-Holding webpages for a forthcoming exhibition or online gallery archives.
+Migrated HTML soup resource for the Fitzwilliam's Whistler exhibition.
 
 ## To run locally
 
