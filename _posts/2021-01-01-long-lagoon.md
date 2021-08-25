@@ -5,7 +5,7 @@ layout: default
 record: 10307
 large: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/P_141_1961.jpg
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_141_1961.jpg
-permalink: /explore/fulham
+permalink: /explore/the-long-lagoon
 tags: [venice]
 ---
 {% include structure/image.html %}

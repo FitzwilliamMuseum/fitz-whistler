@@ -52,6 +52,8 @@ collections:
       output: true
    periods:
       output: true
+   content:
+      output: true
 
 feed:
   collections:
