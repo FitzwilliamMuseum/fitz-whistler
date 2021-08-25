@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /about
+permalink: /about/
 ---
 
 This online exhibition forms a survey of the Fitzwilliam Museum's collection of etchings, drypoints and lithographs by the American artist James Abbott McNeill Whistler (1834-1903). All the works are original prints by Whistler except where stated.
