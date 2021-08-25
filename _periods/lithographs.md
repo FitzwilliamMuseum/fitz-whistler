@@ -5,6 +5,7 @@ permalink: /lithographs/
 dates: '1890 - 1894'
 tag: 'lithographs'
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/P_438_1949_dc2.jpg
+order: 8
 ---
 Whistler took up lithography in 1878 with the encouragement of the London printer Thomas Way, and prompted by revived interest in the medium among French painters like Corot, Degas and Fantin-Latour. At first he drew directly onto lithographic printing stones, but he soon followed the example of his French colleagues by working on transfer paper, from which the image was transferred onto the stone. This gave the same freedom as making a drawing.
 

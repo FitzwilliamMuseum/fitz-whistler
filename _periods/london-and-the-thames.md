@@ -4,6 +4,8 @@ layout: default
 permalink: /london-and-the-thames/
 dates: '1859-1879'
 tag: london
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_79_1959.jpg
+order: 3
 ---
 After returning to London from Paris in May 1859, Whistler took lodgings in Wapping and explored the area of warehouses and wharves along the Thames east of the City. Much of the architecture and character of the sites quickly changed with the demolition and rebuilding that took place in connection with the construction of the embankments.
 
@@ -16,7 +18,7 @@ In Whistler's later Thames etchings linear description of detail gave way to evo
   {% assign rows =  site.posts.size | divided_by: 2.0 | ceil %}
   {% for i in (1..rows) %}
   {% assign offset = forloop.index0 | times: 2 %}
-  {% assign sorted =  site.posts  %}
+  {% assign sorted =  site.posts  | sort: "title"  %}
 
       {% for author in sorted limit:2 offset:offset %}
 

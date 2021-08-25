@@ -5,6 +5,7 @@ permalink: /family-and-friends/
 dates: '1857-1894'
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_2071_R.jpg
 tag: family
+order: 1
 ---
 Many of Whistler's figure subjects portrayed his immediate circle of family, friends and acquaintances, from his mistress Fumette in Paris in the 1850s, to his wife Beatrice and her sister 'Bunnie' in the 1890s.
 

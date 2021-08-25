@@ -4,6 +4,8 @@ layout: default
 permalink: /later-london-street-scenes/
 dates: 'circa 1887'
 tag: 'london street'
+order: 5
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_84_1959.jpg
 ---
 Whistler's late etching style was first developed in the mid-1880s on the streets in Chelsea, where he lived at a series of addresses until leaving London for Paris in 1892. Many of the prints show shop fronts and facades, with figures silhouetted in doorways and arches, recalling the figure subjects among Whistler's Venice etchings.
 

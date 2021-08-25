@@ -5,6 +5,7 @@ permalink: /the-french-set/
 dates: '1857-1861'
 preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp20/preview_P_273_1954.jpg
 tag: french
+order: 2
 ---
 
 Whistler took up etching seriously in London in the spring of 1858. After returning to Paris he made numerous prints in the city and on a journey to the river Rhine. In October 1858 a number of trial proofs were printed on the press of the leading Parisian printer Auguste Delâtre, from which Whistler selected twelve (plus title-page) to be published as Twelve etchings after Nature.

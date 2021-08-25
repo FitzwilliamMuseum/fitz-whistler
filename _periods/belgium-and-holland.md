@@ -4,6 +4,8 @@ layout: default
 permalink: /belgium-and-holland/
 dates: '1887 - 1889'
 tag: 'belgium and holland'
+order: 7
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_86_1959.jpg
 ---
 In August 1887 Whistler travelled to Belgium and Holland with his brother and sister-in-law. He took with him prepared plates and made nineteen etchings, thirteen of them in Brussels in September.
 

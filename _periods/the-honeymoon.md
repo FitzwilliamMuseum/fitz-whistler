@@ -4,6 +4,8 @@ layout: default
 permalink: /the-honeymoon-tour/
 dates: '1888'
 tag: 'honeymoon'
+order: 6
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp33/preview_P_87_1959.jpg
 ---
 After marrying Beatrice Godwin on 11 August 1888, Whistler set off on his honeymoon to the chateaux of the Loire and the towns of Touraine, taking with him 34 prepared plates. In most of the etchings that he made during the trip, he avoided the obvious tourist sites, and concentrated on picturesque settings rather than figures, much as he had done in Venice, London and Brussels.
 

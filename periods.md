@@ -19,6 +19,7 @@ title: Periods of Whistler's work
           <h3 class="lead mt-2">
             <a href="{{site.baseurl}}{{ author.permalink }}" class="stretched-link">{{author.title}}</a>
           </h3>
+          <p class="text-info">{{author.dates}}</p>
         </div>
       </div>
     </div>

@@ -1,10 +1,11 @@
 ---
 title: Prints by friends and followers
-
 layout: default
 permalink: /friends-and-followers/
 dates: '1861 - 1889'
 tag: 'followers'
+order: 9
+preview: https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp80/preview_P_934_R_1_201806_adn21_dc2.jpg
 ---
 Whistler attracted a number of pupils and followers, both amateur and professional, a number of whom became significant printmakers in their own right. Mortimer Menpes and Walter Sickert absorbed Whistler's methods while helping with the printing of the 'Second Venice Set'.
 
@@ -29,6 +30,7 @@ As in so many other cases, Whistler later fell out with both of them. Théodore 
             <h3 class="lead mt-2">
               <a href="{{site.baseurl}}{{ author.permalink }}" class="stretched-link">{{author.title}}</a>
             </h3>
+            <p class="text-info">{{author.artist}}</p>
             {% for tag in author.tags %}
             <span class="badge badge-dark badge-large p-2 mb-2 mr-2 ">
               <a href="" class="text-white"><i class="fas fa-tags"></i> {{ tag | capitalize }}</a>
