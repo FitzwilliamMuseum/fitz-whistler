@@ -4,7 +4,7 @@
     {% for entry in site.posts %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
+            "url": "{{site.url}}{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
             "image": "{{ entry.preview | xml_escape }}"
@@ -13,7 +13,7 @@
     {% for entry in site.content %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
+            "url": "{{site.url}}{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
             "image": "{{ entry.preview | xml_escape }}"
@@ -22,7 +22,7 @@
     {% for entry in site.periods %}
         "{{ entry.url | slugify }}": {
             "title": "{{ entry.title | xml_escape }}",
-            "url": "{{ entry.url | xml_escape }}",
+            "url": "{{site.url}}{{ entry.url | xml_escape }}",
             "summary": "{{ entry.content | strip_html | strip_newlines | truncatewords: 50 | xml_escape }}",
             "content": "{{ entry.content | strip_html | strip_newlines |  xml_escape }}",
             "image": "{{ entry.preview | xml_escape }}"
