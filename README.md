@@ -1,5 +1,9 @@
 # Whistler: Fitzwilliam Museum
 
+[![DOI](https://zenodo.org/badge/399271968.svg)](https://zenodo.org/badge/latestdoi/399271968)
+
+![whistler](https://user-images.githubusercontent.com/286552/163693741-522c89cb-c46f-482e-8c11-4f5a60ff1719.jpg)
+
 Migrated HTML soup resource for the Fitzwilliam's Whistler exhibition.
 
 This online exhibition forms a survey of the Fitzwilliam Museum’s collection of etchings, drypoints and lithographs by the American artist James Abbott McNeill Whistler (1834-1903). All the works are original prints by Whistler except where stated.
