@@ -29,7 +29,7 @@ github_username:  fitzwilliammuseum
 background: ""
 main_url: 'https://fitzmuseum.cam.ac.uk'
 data_url: 'https://data.fitzmuseum.cam.ac.uk/id/object/'
-google_analytics: 'G-2R0YLY9DRS'
+#google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
   - jekyll-feed
